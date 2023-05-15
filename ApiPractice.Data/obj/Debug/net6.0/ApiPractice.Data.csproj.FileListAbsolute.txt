@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\bin\Debug\net6.0\ApiPractice.Data.deps.json
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\bin\Debug\net6.0\ApiPractice.Data.runtimeconfig.json
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\bin\Debug\net6.0\ApiPractice.Data.dll
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\bin\Debug\net6.0\ApiPractice.Data.pdb
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.dll
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\refint\ApiPractice.Data.dll
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.pdb
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ApiPractice.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\ApiPracitce\ApiPractice.Data\obj\Debug\net6.0\ref\ApiPractice.Data.dll
